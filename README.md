@@ -15,7 +15,7 @@ CareerMatch Tracker is a Python command-line application that helps users compar
 
 I built this project to further practice my Python fundamentals with addition of dictionaries while crating something usueful for career search and tracking. This project helps with the organization of job applications and gives a simple keyword score to see the similarities and differences match. Also, I was inspired to do this so I can help my girlfriend(Stacy) in her job search :).
 
-# Technologies 
+# Technologies
 
 1. Python.
 2. JSON.
@@ -34,6 +34,7 @@ I built this project to further practice my Python fundamentals with addition of
 4. Run!!!
 
 # Data Privacy
+
 The 'jobs.json' fo;e is ignored as it may contain personal information later down the line.
 
 # Author
